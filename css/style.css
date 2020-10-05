@@ -1,5 +1,5 @@
 [class*="col-"] {
-  border: 1px solid black;
+
 }
 
 [class*="col-"] > div {
@@ -10,6 +10,14 @@
 .nav_bar{
   background-color: #2D3E50;
 }
+
+.rightbar ul li{
+  display: inline-block;
+  text-decoration: none;
+  float: right;
+  padding-left: 0.5rem;
+}
+
 
 .white-text{
   color: white;
@@ -36,6 +44,7 @@
 
 .home{
   background-color: #BA4B63;
+  margin-right: 10px;
 }
 
 .cake{
@@ -73,4 +82,17 @@
 }
 .glyphicon-download-alt{
   padding-top: 2px;
+}
+
+.location{
+  background-color: #3A546D;
+}
+.text > a{
+   color: #30BC9B;
+}
+
+.copyright{
+  background-color: #2B3D4F;
+  padding-top: 5rem;
+  padding-bottom: 4rem;
 }
