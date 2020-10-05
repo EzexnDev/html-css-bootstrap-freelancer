@@ -1,0 +1,74 @@
+[class*="col-"] {
+  border: 1px solid black;
+}
+
+[class*="col-"] > div {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.nav_bar{
+  background-color: #2D3E50;
+}
+
+.white-text{
+  color: white;
+}
+.burger{
+  float: right;
+}
+.jumbotron{
+  background-color: #30BC9B;
+}
+
+.glyphicon-star{
+  font-size: 40px;
+}
+
+.text{
+  text-align: center;
+}
+
+.cards{
+  margin-top: 2rem;
+  border-radius: 5px;
+}
+
+.home{
+  background-color: #BA4B63;
+}
+
+.cake{
+  background-color: #2BA4B6;
+}
+
+.circus{
+  background-color: black;
+}
+
+.gamepad{
+  background-color: #2483C1
+}
+
+.locker{
+  background-color: #1439B5
+}
+
+.yellow-submarine{
+  background-color: #CCB2A3
+}
+.middle{
+  margin-bottom: 4rem;
+}
+
+.about-section{
+  background-color: #30BC9B;
+}
+
+.btn-primary{
+  border: 1px solid white;
+  background-color: #30BC9B;
+}
+.glyphicon-download-alt{
+  padding-top: 2px;
+}
